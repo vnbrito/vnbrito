@@ -13,7 +13,7 @@
 
 ## 🌐 Conecte-se comigo
 
-<a href="**https://www.linkedin.com/in/vinicius-soares-7603531bb/" target="blank"><img align="center" src="https://www.linkedin.com/in/vinicius-soares-7603531bb/" alt="vnbrito" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vinicius-soares-7603531bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinicius-soares" height="30" width="40" /></a>
 <a href="https://instagram.com/vnbriito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vinicius Soares" height="30" width="40" /></a>
 </p>
 
