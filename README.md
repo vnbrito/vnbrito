@@ -1,4 +1,4 @@
-Olá, seja muito bem-vindo!
+#Olá, seja muito bem-vindo!
 
 <p align="left">
   Sou um(a) entusiasta da tecnologia e estudante de Análise e Desenvolvimento de Sistemas, apaixonado(a) por resolver problemas e criar soluções inovadoras. Atualmente, estou focado(a) em aprofundar meus conhecimentos no desenvolvimento web.
@@ -10,3 +10,19 @@ Olá, seja muito bem-vindo!
 - 💬 Me chame para falar sobre: tecnologia, games, ficção científica, ou qualquer outro assunto que seja interessante, sou aberto a todos.
 - 📫 Como me encontrar: [sbsvinicius@hotmail.com](mailto:sbsvinicius@hotmail.com)
 - 😄 Pronomes: Ele/Dele
+
+## 🌐 Conecte-se comigo
+
+<p align="left">
+<a href="**https://www.linkedin.com/in/vinicius-soares-7603531bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vnbrito" height="30" width="40" /></a>
+<a href="https://instagram.com/vnbriito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vinicius Soares" height="30" width="40" /></a>
+</p>
+
+
+### 🛠️ Linguagens e Ferramentas
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode&perline=7" />
+  </a>
+</p>
