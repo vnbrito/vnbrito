@@ -1,7 +1,7 @@
 #Olá, seja muito bem-vindo!
 
 <p align="left">
-  Sou um(a) entusiasta da tecnologia e estudante de Análise e Desenvolvimento de Sistemas, apaixonado(a) por resolver problemas e criar soluções inovadoras. Atualmente, estou focado(a) em aprofundar meus conhecimentos no desenvolvimento web.
+  Sou um entusiasta da tecnologia e estudante de Análise e Desenvolvimento de Sistemas, apaixonado(a) por resolver problemas e criar soluções inovadoras. Atualmente, estou focado(a) em aprofundar meus conhecimentos no desenvolvimento web.
 </p>
 
 - 🔭 Atualmente estou estudando na Rocketseat e me aprimorando com os cursos ministrados na plataforma.
