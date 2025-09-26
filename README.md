@@ -22,6 +22,6 @@ Olá, seja muito bem-vindo!
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,python&perline=7" />
   </a>
 </p>
