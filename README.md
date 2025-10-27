@@ -13,7 +13,9 @@ Olá, seja muito bem-vindo!
 
 ## 🌐 Conecte-se comigo
 
-<a href="https://www.linkedin.com/in/vinicius-soares-7603531bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinicius-soares" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vinicius-soares" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>
 <a href="https://instagram.com/vnbriito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vinicius Soares" height="30" width="40" /></a>
 </p>
 
