@@ -11,13 +11,13 @@ Olá, seja muito bem-vindo!
 - 📫 Como me encontrar: [sbsvinicius@hotmail.com](mailto:sbsvinicius@hotmail.com)
 - 😄 Pronomes: Ele/Dele
 
-## 🌐 Conecte-se comigo
+🌐 Conecte-se comigo
 
-<a href="https://www.linkedin.com/in/vnbriito" target="_blank">
+<a href="https://www.linkedin.com/in/vnbrito" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
-<a href="https://www.instagram.com/vinicius-soares" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40" style="filter: invert(41%) sepia(98%) saturate(7499%) hue-rotate(329deg) brightness(100%) contrast(97%);" />
+<a href="https://www.instagram.com/vnbriito" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" style="margin-left: 10px;"/>
 </a>
 
 ### 🛠️ Linguagens e Ferramentas
