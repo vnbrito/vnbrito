@@ -13,13 +13,11 @@ Olá, seja muito bem-vindo!
 
 🌐 Conecte-se comigo
 
-<a href="https://www.linkedin.com/in/vnbriito" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-</a>
+### Conecte-se comigo
 
-<a href="https://www.instagram.com/vnbriito" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" style="margin-left: 10px;"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vnbriito/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vnbriito/)
+
 
 ### 🛠️ Linguagens e Ferramentas
 
