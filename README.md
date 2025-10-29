@@ -16,9 +16,8 @@ Olá, seja muito bem-vindo!
 ### Conecte-se comigo
 
 <a href="https://www.linkedin.com/in/vnbriito/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" style="margin-right:10px;" />
-</a>
-<a href="https://www.instagram.com/vnbriito/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+</a><a href="https://www.instagram.com/vnbriito/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" alt="Instagram" />
 </a>
 
